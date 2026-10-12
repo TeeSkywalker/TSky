@@ -1,4 +1,4 @@
-# Terry
+
 ## Certifications
 
 ### Java Programming — University of Helsinki
